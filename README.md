@@ -53,7 +53,7 @@
                 <img src="assets/technologies/backend/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>   
                 <img src="assets/technologies/backend/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
                 <img src="assets/technologies/backend/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
-                <img src="assets/technologies/other/logo-rabbitmq.svg" alt="rabbit-mq" width="80" height="40">
+                <img src="assets/technologies/backend/logo-rabbitmq.svg" alt="rabbit-mq" width="80" height="40">
                 <img src="assets/technologies/backend/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
                 <img src="assets/technologies/backend/SQLAlchemy.svg" alt="sqlalchemy" width="40" height="40">
             </div>
