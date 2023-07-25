@@ -4,10 +4,10 @@
     <h1 align="center">
         $\color{rgb(179, 0, 179)}{\textsf{Welcome to my}}$
         $\color{rgb(230, 0, 230)}{\textsf{Github Profile}}$
-        <img alt="hey" src="https://github.com/MikhailGulkin/MikhailGulkin/blob/main/assets/common/hey.gif" width="25px"> 
+        <img alt="hey" src="https://github.com/artklk12/artklk12/blob/main/hello.gif" width="25px"> 
     </h1>
     <br>
-    <img width="100%" src="" alt="home gif"/>
+    <img width="100%" src="https://github.com/artklk12/artklk12/blob/main/assets/common/r32-skyline.gif" alt="home gif"/>
     <h2 align="center"> 
         $\color{rgb(232, 39, 161)}{\textsf{I'm Web Developer from}}$
         $\color{rgb(255, 36, 175)}{\textsf{St. Petersburg}}$
