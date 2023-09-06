@@ -5,10 +5,10 @@
     <h1 align="center">
         $\color{rgb(179, 0, 179)}{\textsf{Welcome to my}}$
         $\color{rgb(230, 0, 230)}{\textsf{Github Profile}}$
-        <img alt="hey" src="https://github.com/artklk12/artklk12/blob/main/assets/common/hey.gif" width="25px"> 
+        <img alt="hey" src="https://github.com/IsThatASkyline/IsThatASkyline/blob/main/assets/common/hey.gif" width="25px"> 
     </h1>
     <br>
-    <img width="100%" src="https://github.com/artklk12/artklk12/blob/main/assets/common/r32-skyline.gif" alt="home gif"/>
+    <img width="100%" src="https://github.com/IsThatASkyline/IsThatASkyline/blob/main/assets/common/r32-skyline.gif" alt="home gif"/>
     <h2 align="center"> 
         $\color{rgb(232, 39, 161)}{\textsf{I'm Web Developer from}}$
         $\color{rgb(255, 36, 175)}{\textsf{St. Petersburg}}$
@@ -27,7 +27,7 @@
 <div>
     <h2>
             $\color{rgb(212, 78, 189)}{\textsf{Tools and Technology}}$
-            <img alt="computer" width="35" src="https://github.com/artklk12/artklk12/blob/main/assets/common/techs.gif">
+            <img alt="computer" width="35" src="https://github.com/IsThatASkyline/IsThatASkyline/blob/main/assets/common/techs.gif">
     </h2>
     <div>
         <div>
@@ -76,14 +76,14 @@
 <div>
     <h2>
         $\color{rgb(252,65,141)}{\textsf{My Github Stats}}$
-        <img alt="funny-guy-1" width="45" src="https://github.com/artklk12/artklk12/blob/main/assets/common/funny_guy_1.gif">    
+        <img alt="funny-guy-1" width="45" src="https://github.com/IsThatASkyline/IsThatASkyline/blob/main/assets/common/funny_guy_1.gif">    
     </h2>
     <div align="center">
-            <img align="my github stat" src="https://github-readme-stats.vercel.app/api?username=artklk12&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=ff19ff&icon_color=ff19ff&text_color=A1A1A1&bg_color=0,000000,320b35" alt="my Github Stats"/>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=artklk12&show_icons=true&locale=en&layout=compact&exclude_repo=brooklyn_blog,wunderlist,parser-instrumenty&theme=radical&title_color=ff19ff&icon_color=ff19ff&text_color=A1A1A1&bg_color=0,000000,320b35" alt="ovi" />
+            <img align="my github stat" src="https://github-readme-stats.vercel.app/api?username=IsThatASkyline&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=ff19ff&icon_color=ff19ff&text_color=A1A1A1&bg_color=0,000000,320b35" alt="my Github Stats"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IsThatASkyline&show_icons=true&locale=en&layout=compact&exclude_repo=brooklyn_blog,wunderlist,parser-instrumenty&theme=radical&title_color=ff19ff&icon_color=ff19ff&text_color=A1A1A1&bg_color=0,000000,320b35" alt="ovi" />
             <br><br>        
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=artklk12&theme=radical" alt="mystreak"/>
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsThatASkyline&theme=radical" alt="mystreak"/>
             <br><br>        
-            <img align="center" style="text-align: center" alt="trophy" src="https://github-profile-trophy.vercel.app/?username=artklk12&theme=dracula&row=2&column=3">    
+            <img align="center" style="text-align: center" alt="trophy" src="https://github-profile-trophy.vercel.app/?username=IsThatASkyline&theme=dracula&row=2&column=3">    
         </div>   
 </div>
